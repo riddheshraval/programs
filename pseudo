@@ -1,0 +1,8 @@
+create a do while loop to ask the user again and again after wrong input
+ask user for input as a float value
+declare variables for all the type of coins
+declare variable for coins to be calculated
+declare variable for the cents which is converted from float to integers adn dollar to cents '
+use a while loop where until cents are not equal to 0. 
+use if else statement where it will check if each coin is less than equal to cents
+
